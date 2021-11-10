@@ -1,8 +1,13 @@
  Hi, I’m @Mayaka786
+ 
 👀 I’m interested in being a Fullstack Softsware developer
+
 🌱 I’m currently learning Python and Javascript
+
 💞️ I’m looking to collaborate on Software Development
+
 📫 How to reach me angwenyimayaka@gmail.com
+
  main
 
 <!---
