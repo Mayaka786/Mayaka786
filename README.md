@@ -2,7 +2,7 @@
  
 👀 I’m interested in being a Fullstack Softsware developer
 
-🌱 I’m currently learning Python and Javascript
+🌱 I’m currently learning Flask and Javascript
 
 💞️ I’m looking to collaborate on Software Development
 
