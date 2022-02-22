@@ -1,6 +1,6 @@
  Hi, I’m @Mayaka786
  
-👀 I’m interested in being a Fullstack Softsware developer
+👀 I’m interested in being a Fullstack Software developer
 
 🌱 I’m currently learning Flask and Javascript
 
